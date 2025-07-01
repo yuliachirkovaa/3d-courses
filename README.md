@@ -1,1 +1,5 @@
-Developed the frontend of a 3D modeling course website.
+**Веб-сайт курсов 3D-моделирования**
+
+Адаптивная, доступная, кроссбраузерная верстка
+
+Ссылка: https://yuliachirkovaa.github.io/3d-courses/
